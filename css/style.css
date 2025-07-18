@@ -1,0 +1,35 @@
+@import "font.css";
+* {
+    box-sizing: border-box;
+    scrollbar-color: #BDB5D5;
+    scrollbar-width: thin;
+}
+
+body {
+    background-color: #FFFFFF;
+    color: #000;
+    overflow-x: hidden;
+    cursor: url('../img/cursor.png'), auto;
+}
+
+h1, h2, h3, h4, p {
+    margin: 0;
+}
+
+a:hover {
+    color: #BDB5D5;
+    text-decoration: none;
+}
+
+.main-content {
+    position: relative;
+    flex: 1;
+    overflow: hidden;
+}
+
+.image {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
