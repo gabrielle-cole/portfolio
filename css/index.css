@@ -64,7 +64,7 @@ html, body {
     }
 }
 
-@media only screen and (min-width: 935px) {
+@media only screen and (min-width: 467px) {
     /* For desktop: */
     .title {
         font-size: calc(100vw / 10);
