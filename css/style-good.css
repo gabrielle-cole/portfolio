@@ -40,15 +40,21 @@ a:hover {
     scrollbar-width: thin;
 }
 
-#main-content {
-    float: none;
+#main-column {
+	float: none;
     text-align: left;
-  width: 800px
     padding: 5px 5px 5px 5px;
     margin: auto;
-  border-style: dotted;
+    border-style: dotted;
     border-width: 5px;
     border-color: #BDB5D5;
+}
+
+#main-content {
+    position: fixed;
+	width: 800px;
+	padding: 10px;
+  	margin: 0 250px;
 }
 
 .container {
