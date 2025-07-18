@@ -7,7 +7,7 @@
 
 @font-face { 
     font-family: pixel-arial-font; 
-    src: url('pixel-arial-font/pixel-arial-14.otf') format('truetype');
+    src: url('pixel-arial-font/pixel-arial-14.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
