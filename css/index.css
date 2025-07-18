@@ -1,0 +1,73 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.title {
+    font-family: pixel-arial-font;
+    line-height: 35px;
+}
+.subtitle {
+    font-family: times-new-roman;
+    line-height: 12px
+}
+.body {
+    font-family: times-new-roman;
+    line-height: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+    /* For phones: */
+    .title {
+        font-size: calc(100vw / 24);
+        line-height: calc(100vw / 16);
+    }
+    .subtitle {
+        font-size: calc(100vw / 36);
+        line-height: calc(100vw / 18);
+    }
+    .body {
+        font-size: calc(100vw / 34);
+        line-height: calc(100vw / 34);
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .title {
+        font-size: calc(100vw / 22);
+        line-height: calc(100vw / 14);
+    }
+    .subtitle {
+        font-size: calc(100vw / 34);
+        line-height: calc(100vw / 16);
+    }
+    .body {
+        font-size: calc(100vw / 32);
+        line-height: calc(100vw / 32);
+    }
+}
+
+@media only screen and (min-width: 935px) {
+    /* For desktop: */
+    .title {
+        font-size: calc(100vw / 20);
+        line-height: calc(100vw / 12);
+    }
+    .subtitle {
+        font-size: calc(100vw / 30);
+        line-height: calc(100vw / 12);
+    }
+    .body {
+        font-size: calc(100vw / 30);
+        line-height: calc(100vw / 30);
+    }
