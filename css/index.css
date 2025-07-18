@@ -17,7 +17,7 @@ html, body {
     height: auto;
     text-align: center;
     position: absolute;
-    p.dotted {border-style: dotted;}
+    border-style: dotted;
     border-width: thin;
     border-color: #BDB5D5;
 }
