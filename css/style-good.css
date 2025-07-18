@@ -1,0 +1,66 @@
+<!doctype .css>
+@import "fonts.css"
+.h1 {
+    font-family: "pixel-arial-font",
+        font-size: 18px;
+}
+.h2 {
+    font-family: "light-arial-font",
+        font-size: 18px;
+}
+.p { 
+font-family: times new roman;
+font-size: 18px;
+}
+
+a:link {
+  font-family: "pixel-arial-font"  
+  color: #000;
+    text-decoration: none;
+    align-items: center;
+}
+
+a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #BDB5D5;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.body {
+    background-color: #FFFFFF;
+    overflow-x: scroll;
+    cursor: url('images/purple-cursor.png')
+   scrollbar-color: #BDB5D5;
+    scrollbar-width: thin;
+}
+
+#main-content {
+    float: none;
+    text-align: left;
+  width: 800px
+    padding: 5px 5px 5px 5px;
+    margin: auto;
+  border-style: dotted;
+    border-width: 5px;
+    border-color: #BDB5D5;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.profile {
+    max-width: 13%;
+    height: auto;
+    text-align: center;
+    position: absolute;
+}
