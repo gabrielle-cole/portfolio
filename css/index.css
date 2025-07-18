@@ -17,7 +17,9 @@ html, body {
     height: auto;
     text-align: center;
     position: absolute;
-    <img src="profile (2).jpg" class="w3-border w3-padding" alt="Profile">
+    p.dotted {border-style: dotted;}
+    border-width: thin;
+    border-color: #BDB5D5;
 }
 
 .title {
