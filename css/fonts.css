@@ -1,0 +1,20 @@
+@font-face { 
+    font-family: times-new-roman; 
+    src: url('times-new-roman/times.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face { 
+    font-family: pixel-arial-font; 
+    src: url('pixel-arial-font/pixel-arial-14.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face { 
+    font-family: light-arial-font; 
+    src: url('light-arial-font/light-arial.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
