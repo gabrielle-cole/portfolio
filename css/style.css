@@ -1,23 +1,10 @@
+<!DOCTYPE .css>
+
 @import "fonts.css";
 * {
     box-sizing: border-box;
     scrollbar-color: #BDB5D5;
     scrollbar-width: thin;
-}
-
-.row{
-    vertical-align: center;
-}
-
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-
-[class*="col-"] {
-    float: left;
-    padding: 10px;
 }
 
 html, body {
@@ -26,22 +13,25 @@ html, body {
     flex-direction: column;
 }
 
-html {
-    font-family: "times-new-roman", sans-serif;
+p { 
+font-family: times new roman;
+font-size: 18px;
+    
+h1 {
+    font-family: "pixel-arial-font",
+        font-size: 18px;
 }
-html {
-    font-family: "light-arial-font", sans-serif;
+    
+h2 {
+    font-family: "light-arial-font",
+        font-size: 18px;
 }
 
 body {
     background-color: #FFFFFF;
     color: #000;
     overflow-x: scroll;
-    cursor: url('images/purple-cursor.png'), auto;
-}
-
-h1, h2, h3, h4, p {
-    margin: 0;
+    cursor: url('images/purple-cursor.png');
 }
 
 a:link {
@@ -58,12 +48,14 @@ a:visited {
 a:hover {
     color: #BDB5D5;
     text-decoration: none;
+    font-style: italic;
 }
 
 .main-content {
-    position: relative;
-    flex: 1;
-    overflow: scroll;
+    float: none;
+    text-align: left;
+    padding: 5px 5px 5px 5px;
+    margin: auto;
 }
 
 .image {
