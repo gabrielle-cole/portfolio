@@ -14,9 +14,8 @@ font-size: 18px;
 }
 
 a:link {
-  font-family: "pixel-arial-font"  
+  font: "pixel-arial-font"  
   color: #000;
-    text-decoration: none;
     align-items: center;
 }
 
