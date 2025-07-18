@@ -1,1 +1,5 @@
-
+@import "pixel_arial_14.zip"
+*{
+scrollbar-color: #BDB5D5;
+ scrollbar-width: thin;
+}
