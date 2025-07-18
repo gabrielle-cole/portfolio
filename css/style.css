@@ -9,7 +9,7 @@ body {
     background-color: #FFFFFF;
     color: #000;
     overflow-x: hidden;
-    cursor: url('../img/cursor.png'), auto;
+    cursor: url('images/purple-cursor.png'), auto;
 }
 
 h1, h2, h3, h4, p {
