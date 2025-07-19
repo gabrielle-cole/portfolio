@@ -40,28 +40,24 @@ a:hover {
     scrollbar-width: thin;
 }
 
-#main-content {
-    position: fixed;
+#content {
+	position: fixed;
 	width: 800px;
-	height: 500px;
-  	margin: 0 auto;
+	padding: 10px;
+	margin: 0 auto;
+
+#main-column {
+    float: none;
+	text-align: centre;
+	padding: 5px 5px;
+	margin: auto;
 	border-style: dotted;
     border-width: 5px;
     border-color: #BDB5D5;
-	text-align: centre
-
 }
 
-.container {
-	position: relative;
-    display: flex;
-    flex-direction: row;
-    justify-content: centre;
-    align-items: centre;
-    height: 100vh;
-}
-
-.profile {
-    text-align: centre;
-    position: absolute;
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
 }
