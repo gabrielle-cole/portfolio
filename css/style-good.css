@@ -60,11 +60,7 @@ a:hover {
 }
 
 .container {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+	padding: 0 0 0 10px;
 }
 
 .profile {
