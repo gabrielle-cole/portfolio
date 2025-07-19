@@ -1,4 +1,6 @@
 <!doctype .css>
+@import "fonts.css" 
+
 h1 {
     font-family: "pixel-arial-font";
         font-size: 18px;
@@ -41,7 +43,7 @@ a:hover {
 
 #main-column {
 	float: none;
-    text-align: left;
+    text-align: centre;
     padding: 5px 5px 5px 5px;
     margin: auto;
     border-style: dotted;
