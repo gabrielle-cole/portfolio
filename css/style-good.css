@@ -17,7 +17,7 @@ font-size: 15px;
 a:link {
     font-family: "light-arial-font";  
     color: #000;
-    align-items: center;
+    align-items: centre;
     text-decoration: none;
 }
 
@@ -43,11 +43,11 @@ a:hover {
 #main-content {
     position: fixed;
 	width: 800px;
-	height: 600px;
+	height: 300px;
 	padding: 10px;
   	margin: auto;
-	justify-content: center;
-    align-items: center;
+	justify-content: centre;
+    align-items: centre;
 	border-style: dotted;
     border-width: 5px;
     border-color: #BDB5D5;
@@ -58,12 +58,12 @@ a:hover {
 	position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: centre;
+    align-items: centre;
     height: 100vh;
 }
 
 .profile {
-    text-align: center;
+    text-align: centre;
     position: absolute;
 }
