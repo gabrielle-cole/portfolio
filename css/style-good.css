@@ -52,7 +52,7 @@ a:hover {
 #main-content {
     position: fixed;
 	width: 800px;
-	height: 800px;
+	height: 600px;
 	padding: 10px;
   	margin: 0 250px;
 }
