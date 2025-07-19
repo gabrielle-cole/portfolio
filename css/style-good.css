@@ -55,7 +55,7 @@ a:hover {
 .container {
 	position: relative;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: centre;
     align-items: centre;
     height: 100vh;
