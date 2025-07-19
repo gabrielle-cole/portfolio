@@ -1,13 +1,13 @@
 <!doctype .css>
-.h1 {
+h1 {
     font-family: "pixel-arial-font";
         font-size: 18px;
 }
-.h2 {
+h2 {
     font-family: "light-arial-font";
         font-size: 18px;
 }
-.p { 
+p { 
 font-family: times new roman;
 font-size: 18px;
 	padding-right: 200px;
