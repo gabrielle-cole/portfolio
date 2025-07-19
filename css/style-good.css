@@ -8,14 +8,14 @@ h2 {
         font-size: 18px;
 }
 p { 
-font-family: times new roman;
+font-family: "times-new-roman";
 font-size: 18px;
 	padding-right: 200px;
 }
 
 a:link {
-  font-family: "light-arial-font";  
-  color: #000;
+    font-family: "light-arial-font";  
+    color: #000;
     align-items: center;
     text-decoration: none;
 }
@@ -35,7 +35,7 @@ a:hover {
     background-color: #FFFFFF;
     overflow-x: scroll;
     cursor: url('images/purple-cursor.png')
-   scrollbar-color: #BDB5D5;
+    scrollbar-color: #BDB5D5;
     scrollbar-width: thin;
 }
 
