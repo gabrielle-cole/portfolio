@@ -65,8 +65,8 @@ a:hover {
 .flex-container {
   display: flex;
   justify-content: space-around;
-  align-content: centre;
-  text-align:centre;
+  align-content: center;
+  text-align:center;
   width: 200px;
   flex-direction: row;
 }
