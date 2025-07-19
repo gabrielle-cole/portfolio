@@ -44,7 +44,7 @@ a:hover {
 	position: fixed;
 	width: 400px;
 	padding: 10px;
-	margin: 0 auto;
+	margin: 75px;
 	align-content: center;
 }
 
@@ -53,7 +53,7 @@ a:hover {
 	text-align: center;
 	align-content: center;
 	padding: 5px 5px;
-	margin: 250px;
+	margin: auto;
 	border-style: dotted;
     border-width: 5px;
     border-color: #BDB5D5;
