@@ -40,22 +40,15 @@ a:hover {
     scrollbar-width: thin;
 }
 
-#main-column {
-	float: none;
-    text-align: centre;
-    padding: 5px 5px 5px 5px;
-    margin: auto;
-    border-style: dotted;
-    border-width: 5px;
-    border-color: #BDB5D5;
-}
-
 #main-content {
     position: fixed;
 	width: 800px;
 	height: 600px;
 	padding: 10px;
   	margin: auto;
+	border-style: dotted;
+    border-width: 5px;
+    border-color: #BDB5D5;
 }
 
 .container {
