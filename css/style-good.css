@@ -45,10 +45,11 @@ a:hover {
 	width: 800px;
 	height: 500px;
 	padding: 10px
-  	margin: auto;
+  	margin: 0 auto;
 	border-style: dotted;
     border-width: 5px;
     border-color: #BDB5D5;
+	text-align: centre
 
 }
 
