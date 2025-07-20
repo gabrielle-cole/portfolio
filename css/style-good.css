@@ -89,7 +89,7 @@ a:hover {
 	align-content: center;
 	padding: 10px 10px;
 	margin: auto;
-	border-style: dotted;
+	border-style: inset;
     border-width: 5px;
     border-color: #BDB5D5;
 }
