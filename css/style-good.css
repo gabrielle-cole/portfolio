@@ -64,14 +64,14 @@ a:visited {
 
 a:hover {
     color: #BDB5D5;
-    text-decoration: none;
+    text-decoration: underline;
     font-style: italic;
 }
 
 .body {
     background-color: #FFFFFF;
     overflow-x: scroll;
-    cursor: url(purple-cursor.png)
+    cursor: url('../images/purple-cursor.png')
     scrollbar-color: #BDB5D5;
     scrollbar-width: thin;
 }
