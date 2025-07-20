@@ -1,21 +1,21 @@
 <!doctype .css>
 @import "fonts.css" 
 
-h1 {
+.h1 {
     font-family: pixel-arial-font;
         font-size: 15px;
 }
-h2 {
+.h2 {
     font-family: light-arial-font;
         font-size: 15px;
 }
-p { 
+.p { 
 font-family: times-new-roman;
 font-size: 15px;
 }
 
 a:link {
-    font-family: "light-arial-font";  
+    font-family: light-arial-font;  
     color: #000;
     align-items: centre;
     text-decoration: none;
