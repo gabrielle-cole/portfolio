@@ -70,7 +70,7 @@ a:hover {
 .body {
     min-height: 100vh;
 	background-image: url('../images/backgroundtry1.png');
-	background-size: 100%;
+	background-size: 100vh;
     overflow-x: scroll;
     cursor: url("../images/purple-cursor.png"), url("../images/purple-pointer.png");
     scrollbar-color: #BDB5D5;
@@ -97,7 +97,7 @@ a:hover {
 	margin: auto;
 	border-style: inset;
     border-width: 5px;
-    border-color: #BDB5D5;
+    border-color: #880808;
 }
 
 .flex-container {
