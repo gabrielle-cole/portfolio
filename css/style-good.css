@@ -68,7 +68,7 @@ a:hover {
 }
 
 .body {
-    background-color: #FFFFFF;
+    background-image: url('../images/backgroundtry1.png');
     overflow-x: scroll;
     cursor: url('../images/purple-cursor.png'), url('../images/purple-pointer.png');
     scrollbar-color: #BDB5D5;
@@ -84,6 +84,7 @@ a:hover {
 	padding: 10px;
 	margin: 0 auto;
 	align-content: center;
+	background-color: #f3eddd;
 }
 
 #main-column {
