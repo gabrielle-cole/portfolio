@@ -2,15 +2,15 @@
 @import "fonts.css" 
 
 h1 {
-    font-family: "pixel-arial-font";
+    font-family: pixel-arial-font;
         font-size: 15px;
 }
 h2 {
-    font-family: "light-arial-font";
+    font-family: light-arial-font;
         font-size: 15px;
 }
 p { 
-font-family: "times-new-roman";
+font-family: times-new-roman;
 font-size: 15px;
 }
 
