@@ -68,8 +68,9 @@ a:hover {
 }
 
 .body {
-    background-image: url('backgroundtry1.png');
+    background-image: url('../images/backgroundtry1.png');
 	min-height: 100%;
+	min-width: 100%;
     overflow-x: scroll;
     cursor: url("../images/purple-cursor.png"), url("../images/purple-pointer.png");
     scrollbar-color: #BDB5D5;
