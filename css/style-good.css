@@ -68,16 +68,12 @@ a:hover {
 }
 
 .body {
-    background-image: url("../images/backgroundtry1.png");
+    background: url("../images/backgroundtry1.png");
+	min-height: 100%;
     overflow-x: scroll;
     cursor: url("../images/purple-cursor.png"), url("../images/purple-pointer.png");
     scrollbar-color: #BDB5D5;
     scrollbar-width: thin;
-}
-
-.background-image {
-	width: 100%;
-	position: absolute;
 }
 
 #content {
