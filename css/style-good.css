@@ -14,8 +14,8 @@
 }
 
 @font-face {
-	font-family: garamond-italic
-	src: url('garamond/applegaramond-italic.ttf') format ('truetype');
+	font-family: garamond
+	src: url('garamond/applegaramond-italic.ttf') format('truetype');
 	font-weight: normal;
 	font-style: italic;
 }
@@ -41,7 +41,7 @@
         font-size: 15px;
 }
 .p { 
-font-family: Garamond;
+font-family: garamond;
 font-size: 15px;
 }
 
