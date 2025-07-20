@@ -14,8 +14,8 @@
 
 @font-face {
     font-family: light-arial-font;
-    src: url('light-arial-webfont.woff2') format('woff2'),
-         url('light-arial-webfont.woff') format('woff');
+    src: url('light-arial-font/light-arial-webfont.woff2') format('woff2'),
+         url('light-arial-font/light-arial-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
