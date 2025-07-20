@@ -68,9 +68,9 @@ a:hover {
 }
 
 .body {
-    background-image: url('../images/backgroundtry1.png');
+    background-image: url("../images/backgroundtry1.png");
     overflow-x: scroll;
-    cursor: url('../images/purple-cursor.png'), url('../images/purple-pointer.png');
+    cursor: url("../images/purple-cursor.png"), url("../images/purple-pointer.png");
     scrollbar-color: #BDB5D5;
     scrollbar-width: thin;
 }
