@@ -70,7 +70,7 @@ a:hover {
 .body {
     background-color: #FFFFFF;
     overflow-x: scroll;
-    cursor: url('../images/purple-cursor.png'), url(../images/purple-pointer.png');
+    cursor: url('../images/purple-cursor.png'), url('../images/purple-pointer.png');
     scrollbar-color: #BDB5D5;
     scrollbar-width: thin;
 }
