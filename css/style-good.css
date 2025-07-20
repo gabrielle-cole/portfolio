@@ -36,6 +36,12 @@
     font-style: normal;
 }
 
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
 .h1 {
     font-family: pixel-arial-font;
         font-size: 15px;
@@ -70,7 +76,7 @@ a:hover {
 .body {
     min-height: 100%;
 	background-image: url('../images/backgroundtry1.png');
-	background-size: 100vh;
+	background-size: 100%;
     overflow-x: scroll;
     cursor: url("../images/purple-cursor.png"), url("../images/purple-pointer.png");
     scrollbar-color: #BDB5D5;
