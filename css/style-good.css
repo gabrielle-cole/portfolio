@@ -68,5 +68,6 @@ a:hover {
   align-content: center;
   text-align:center;
   width: 400px;
+  padding: 10px;
   flex-direction: row;
 }
