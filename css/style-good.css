@@ -8,29 +8,30 @@
 
 @font-face {
 	font-family: garamond;
-	src: url('garamond/applegaramond.ttf') format('truetype');
+	src: url('../garamond/applegaramond.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: garamond
-	src: url('garamond/applegaramond-italic.ttf') format('truetype');
+	src: url('../garamond/applegaramond-italic.ttf') format('truetype');
 	font-weight: normal;
 	font-style: italic;
 }
 
 @font-face { 
     font-family: pixel-arial-font; 
-    src: url('pixel-arial-font/pixel-arial-14.otf') format('opentype');
+    src: url('../pixel-arial-font/pixel-arial-14.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face { 
     font-family: light-arial-font;
-    src: url('light-arial-webfont.woff2') format('woff2'),
-         url('light-arial-webfont.woff') format('woff');
+    src: url('../light-arial-font/light-arial.ttf') format('truetype'),
+	 url('../light-arial-font/light-arial-webfont.woff2') format('woff2'),
+         url('../light-arial-font/light-arial-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
