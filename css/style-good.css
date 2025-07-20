@@ -75,6 +75,11 @@ a:hover {
     scrollbar-width: thin;
 }
 
+.background-image {
+	width: 100%;
+	position: absolute;
+}
+
 #content {
 	position: absolute;
 	top: 50%;
