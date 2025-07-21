@@ -43,6 +43,8 @@
 	background-repeat: no-repeat;
 	background-position: center;
     overflow-x: scroll;
+	scrollbar-color: #7B1818;
+	 scrollbar-width: thin;
 }
 
 html, body {
