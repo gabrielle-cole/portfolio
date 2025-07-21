@@ -39,10 +39,10 @@
 .body {
     width: 100%;
     display: table-cell;
-	background-image: url('../images/backgroundtry1.png');
+	background-image: url('../images/backgroundtry1.png') !important;
 	background-repeat: no-repeat;
 	background-position: center;
-    overflow-x: scroll;
+    	overflow-x: scroll;
 	scrollbar-color: #7B1818;
 	 scrollbar-width: thin;
 }
