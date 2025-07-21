@@ -37,6 +37,7 @@
 }
 
 .body {
+    height: 100%;
     width: 100%;
     display: table-cell;
 	background-image: url('../images/backgroundtry1.png') !important;
