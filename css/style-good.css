@@ -37,8 +37,8 @@
 }
 
 .body {
-    height: 100%;
-    width: 100%;
+    min-height: 100%;
+    min-width: 100%;
     display: table-cell;
 	background-image: url('../images/backgroundtry1.png') !important;
 	background-repeat: no-repeat;
