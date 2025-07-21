@@ -36,6 +36,15 @@
     font-style: normal;
 }
 
+.body {
+    width: 100%;
+    display: table-cell;
+	background-image: url('../images/backgroundtry1.png');
+	background-repeat: no-repeat;
+	background-position: center;
+    overflow-x: scroll;
+}
+
 html, body {
     margin: 0;
     padding: 0;
@@ -76,15 +85,6 @@ a:visited {
 a:hover {
     color: #7B1818;
     font-style: italic;
-}
-
-.body {
-    width: 100%;
-    display: table-cell;
-	background-image: url('../images/backgroundtry1.png');
-	background-repeat: no-repeat;
-	background-position: center;
-    overflow-x: scroll;
 }
 
 #content {
