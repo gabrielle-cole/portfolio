@@ -54,7 +54,7 @@ html {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-    	overflow-x: scroll;
+    	overflow-x: display;
 	scrollbar-color: #9A2A2A;
 	scrollbar-width: thin;
 }
