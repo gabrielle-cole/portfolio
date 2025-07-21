@@ -74,7 +74,7 @@ a:visited {
 }
 
 a:hover {
-    color: #BDB5D5;
+    color: #7B1818;
     font-style: italic;
 }
 
@@ -85,8 +85,7 @@ a:hover {
 	background-repeat: no-repeat;
 	background-position: center;
     overflow-x: scroll;
-    cursor: url("../images/purple-cursor.png"), url("../images/purple-pointer.png");
-    scrollbar-color: #BDB5D5;
+    scrollbar-color: #7B1818;
     scrollbar-width: thin;
 }
 
