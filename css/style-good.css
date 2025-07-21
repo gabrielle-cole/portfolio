@@ -48,10 +48,10 @@ html {
 }
 
 .body {
+	background-image: url('../images/backgroundtry1.png') !important;
 	height: 100vh;
 	width: 100%;
 	display: table-cell;
-	background-image: url('../images/backgroundtry1.png') !important;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
