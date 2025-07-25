@@ -116,7 +116,7 @@ a:hover {
 
 .flex-container {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-content: center;
   width: 380px;
   padding: 10px;
