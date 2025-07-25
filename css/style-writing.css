@@ -118,7 +118,6 @@ a:hover {
   display: flex;
   justify-content: center;
   align-content: center;
-  width: 380px;
   padding: 10px;
   flex-direction: row;
 }
